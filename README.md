@@ -146,7 +146,13 @@ To share your local app publicly, you can use Ngrok to forward the port.
    ```bash
    `(http://127.0.0.1:4040/inspect/http)`
    ```
-4. **Ngrok URL to inspect and check the status of application:**
+   ![Screenshot from 2024-10-25 00-39-19](https://github.com/user-attachments/assets/b24c5ae5-f3ad-4002-abe0-4beb142e42ef)
+
+   ![Screenshot from 2024-10-25 00-37-43](https://github.com/user-attachments/assets/9bcf644f-8ecc-4fc6-9645-1e778b8cbaf4)
+   
+   ![Screenshot from 2024-10-25 00-39-54](https://github.com/user-attachments/assets/9eb2b074-bc88-4804-87dd-85b6ef940486)
+
+5. **Ngrok URL to inspect and check the status of application:**
    ```bash
    Ngrok will provide a public URL, e.g., `(https://94f7-87-100-227-126.ngrok-free.app/)`, which you can use to access your application.
    ```

@@ -189,8 +189,7 @@ Contributions are welcome! Please feel free to submit a pull request.
 
 
 ## 📜 Proudly Presenting My Credentials: These are all my certificates!
-
-## 📜 Proudly Presenting My Credentials: These are all my certificates!
+## 🏆 My Certificates Showcase
 
 <div align="center">
     <h2>Here are all my certificates that reflect my skills and accomplishments:</h2>
@@ -243,7 +242,7 @@ Contributions are welcome! Please feel free to submit a pull request.
 
         <div style="margin: 10px;">
             <h3>📈 Intermediate SQL Skill Assessment</h3>
-            <img src="https://github.com/user-attachments/assets/1220f06a-fce8-403b-9d5b-65c4072a079a" alt="10_SQL Intermediate Skill Assessment Test_page-0001" style="width: 300px; border-radius: 10px; border: 2px solid #4CAF50;">
+            <img src="https://github.com/user-attachments/assets/1220f06a-fce8-403b-9d5b-65c4072a079a" alt="10_SQL Intermediate Skill Assessment_page-0001" style="width: 300px; border-radius: 10px; border: 2px solid #4CAF50;">
         </div>
 
         <div style="margin: 10px;">

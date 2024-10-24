@@ -199,7 +199,7 @@ Here are all my certificates that reflect my skills and accomplishments:
 ### ☁️ AWS Certification
 ![2_AWS](https://github.com/user-attachments/assets/89d62895-13bc-4e51-ac46-2b93f8caf1fc)
 
-### 🥇 Neo Certificate
+### 🥇 Neo & LLM Certificate
 ![3_Neo cert](https://github.com/user-attachments/assets/972dc590-c1a0-4b32-9462-c76beccd79c8)
 
 ### 🛠️ Terraform for Beginners
@@ -208,7 +208,7 @@ Here are all my certificates that reflect my skills and accomplishments:
 ### 📡 Introduction to 5G
 ![5_5g introduction_page-0001](https://github.com/user-attachments/assets/2ab1cd96-86ad-4dda-aeeb-79c26e5d5df2)
 
-### ✅ Certificate of Completion
+### ✅ Security Training
 ![6_CertificateOfCompletion_page-0001](https://github.com/user-attachments/assets/035a5c22-658f-444c-bfd6-4dc6b82f4c56)
 
 ### 🐳 Kubernetes Crash Course
@@ -249,13 +249,7 @@ Here are all my certificates that reflect my skills and accomplishments:
 
 
 
-
-
-
-
-## 📜 Proudly Presenting My Credentials: These are all my certificates!
-
-### Here are all my certificates that reflect my skills and accomplishments:
+### Overview:
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/a9b7c42e-2783-437a-934d-3d913b034d73" alt="1_Python_Demonstration" style="width: 300px; border-radius: 10px; margin: 10px;">

@@ -152,6 +152,11 @@ To share your local app publicly, you can use Ngrok to forward the port.
    
    ![Screenshot from 2024-10-25 00-39-54](https://github.com/user-attachments/assets/9eb2b074-bc88-4804-87dd-85b6ef940486)
 
+### 🔍 Here’s Your Gateway to the App Interface: 🔍
+![Screenshot from 2024-10-25 02-29-36](https://github.com/user-attachments/assets/ea635f2c-100b-4824-b093-5da567224f8a)
+
+![Screenshot from 2024-10-25 02-30-38](https://github.com/user-attachments/assets/b9e32d0b-91eb-431f-a055-5fbb8c0d77b6)
+
 5. **Ngrok URL to inspect and check the status of application:**
    ```bash
    Ngrok will provide a public URL, e.g., `(https://94f7-87-100-227-126.ngrok-free.app/)`, which you can use to access your application.
@@ -181,3 +186,43 @@ You can deploy this Flask app on Vercel for a serverless, production-ready setup
 
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a pull request.
+
+
+## 📜 Proudly Presenting My Credentials: These are all my certificates!
+
+![1_Python_Demonstration](https://github.com/user-attachments/assets/a9b7c42e-2783-437a-934d-3d913b034d73)
+
+![2_AWS](https://github.com/user-attachments/assets/89d62895-13bc-4e51-ac46-2b93f8caf1fc)
+
+![3_Neo cert](https://github.com/user-attachments/assets/972dc590-c1a0-4b32-9462-c76beccd79c8)
+
+![4_Course-Certificate_Lab-Terraform-for-Beginners_Khizra pdf_page-0001](https://github.com/user-attachments/assets/737067bd-792c-4604-88bf-bf7a41a6ab63)
+
+![5_5g introduction_page-0001](https://github.com/user-attachments/assets/2ab1cd96-86ad-4dda-aeeb-79c26e5d5df2)
+
+![6_CertificateOfCompletion_page-0001](https://github.com/user-attachments/assets/035a5c22-658f-444c-bfd6-4dc6b82f4c56)
+
+![7_Kubernetes Crash Course](https://github.com/user-attachments/assets/1c07e1a1-c78e-4b16-baf0-4e815d063f0c)
+
+![8_Docker Hands-On Practical Experience](https://github.com/user-attachments/assets/7b91c5e4-a02e-4467-94f1-52b4dcb64522)
+
+![9_SQL Advanced Skill Assessment Test_page-0001](https://github.com/user-attachments/assets/d453ae12-d373-482b-a31a-c511bbcce667)
+
+![10_SQL Intermediate Skill Assessment Test_page-0001](https://github.com/user-attachments/assets/1220f06a-fce8-403b-9d5b-65c4072a079a)
+
+![11_SQL Basic Skill Assessment Test_page-0001](https://github.com/user-attachments/assets/894b6ce0-cf41-4fd2-81d0-e6f62ca0a8b8)
+
+![12_Automation With Selenium Web Driver and TestNg_page-0001](https://github.com/user-attachments/assets/2e2a3b8c-f4cb-4939-8dc6-71311179b7ca)
+
+![13_API Testing and Basic Overview of JMETER _page-0001](https://github.com/user-attachments/assets/8ac535e5-4f95-47d9-9043-e75ca0679269)
+
+![14_API Testing with Postman_page-0001](https://github.com/user-attachments/assets/7fd9aadb-b134-43ae-9260-7f443eeec6ec)
+
+![15_Automation Using Cypress – Part II_page-0001](https://github.com/user-attachments/assets/8cc9bf5b-12ba-4594-aa39-2ae490d742b5)
+
+![16_Test Automation with Cypress_page-0001](https://github.com/user-attachments/assets/1c628bdf-e267-4ebe-8499-b967fd9cdb46)
+
+![Uploading 17_Web and Graphic Design Course_page-0001.jpg…]()
+
+
+

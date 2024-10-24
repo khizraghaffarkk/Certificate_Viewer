@@ -189,95 +189,26 @@ Contributions are welcome! Please feel free to submit a pull request.
 
 
 ## 📜 Proudly Presenting My Credentials: These are all my certificates!
-## 🏆 My Certificates Showcase
+## 📜 Proudly Presenting My Credentials: These are all my certificates!
+
+### Here are all my certificates that reflect my skills and accomplishments:
 
 <div align="center">
-    <h2>Here are all my certificates that reflect my skills and accomplishments:</h2>
-    
-    <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-        <div style="margin: 10px;">
-            <h3>🎓 Python Demonstration</h3>
-            <img src="https://github.com/user-attachments/assets/a9b7c42e-2783-437a-934d-3d913b034d73" alt="1_Python_Demonstration" style="width: 300px; border-radius: 10px; border: 2px solid #4CAF50;">
-        </div>
-        
-        <div style="margin: 10px;">
-            <h3>☁️ AWS Certification</h3>
-            <img src="https://github.com/user-attachments/assets/89d62895-13bc-4e51-ac46-2b93f8caf1fc" alt="2_AWS" style="width: 300px; border-radius: 10px; border: 2px solid #4CAF50;">
-        </div>
-        
-        <div style="margin: 10px;">
-            <h3>🥇 Neo Certificate</h3>
-            <img src="https://github.com/user-attachments/assets/972dc590-c1a0-4b32-9462-c76beccd79c8" alt="3_Neo cert" style="width: 300px; border-radius: 10px; border: 2px solid #4CAF50;">
-        </div>
-
-        <div style="margin: 10px;">
-            <h3>🛠️ Terraform for Beginners</h3>
-            <img src="https://github.com/user-attachments/assets/737067bd-792c-4604-88bf-bf7a41a6ab63" alt="4_Course-Certificate_Lab-Terraform-for-Beginners_Khizra pdf_page-0001" style="width: 300px; border-radius: 10px; border: 2px solid #4CAF50;">
-        </div>
-
-        <div style="margin: 10px;">
-            <h3>📡 Introduction to 5G</h3>
-            <img src="https://github.com/user-attachments/assets/2ab1cd96-86ad-4dda-aeeb-79c26e5d5df2" alt="5_5g introduction_page-0001" style="width: 300px; border-radius: 10px; border: 2px solid #4CAF50;">
-        </div>
-
-        <div style="margin: 10px;">
-            <h3>✅ Certificate of Completion</h3>
-            <img src="https://github.com/user-attachments/assets/035a5c22-658f-444c-bfd6-4dc6b82f4c56" alt="6_CertificateOfCompletion_page-0001" style="width: 300px; border-radius: 10px; border: 2px solid #4CAF50;">
-        </div>
-
-        <div style="margin: 10px;">
-            <h3>🐳 Kubernetes Crash Course</h3>
-            <img src="https://github.com/user-attachments/assets/1c07e1a1-c78e-4b16-baf0-4e815d063f0c" alt="7_Kubernetes Crash Course" style="width: 300px; border-radius: 10px; border: 2px solid #4CAF50;">
-        </div>
-
-        <div style="margin: 10px;">
-            <h3>🚢 Docker Hands-On Experience</h3>
-            <img src="https://github.com/user-attachments/assets/7b91c5e4-a02e-4467-94f1-52b4dcb64522" alt="8_Docker Hands-On Practical Experience" style="width: 300px; border-radius: 10px; border: 2px solid #4CAF50;">
-        </div>
-
-        <div style="margin: 10px;">
-            <h3>📊 Advanced SQL Skill Assessment</h3>
-            <img src="https://github.com/user-attachments/assets/d453ae12-d373-482b-a31a-c511bbcce667" alt="9_SQL Advanced Skill Assessment Test_page-0001" style="width: 300px; border-radius: 10px; border: 2px solid #4CAF50;">
-        </div>
-
-        <div style="margin: 10px;">
-            <h3>📈 Intermediate SQL Skill Assessment</h3>
-            <img src="https://github.com/user-attachments/assets/1220f06a-fce8-403b-9d5b-65c4072a079a" alt="10_SQL Intermediate Skill Assessment_page-0001" style="width: 300px; border-radius: 10px; border: 2px solid #4CAF50;">
-        </div>
-
-        <div style="margin: 10px;">
-            <h3>📚 Basic SQL Skill Assessment</h3>
-            <img src="https://github.com/user-attachments/assets/894b6ce0-cf41-4fd2-81d0-e6f62ca0a8b8" alt="11_SQL Basic Skill Assessment Test_page-0001" style="width: 300px; border-radius: 10px; border: 2px solid #4CAF50;">
-        </div>
-
-        <div style="margin: 10px;">
-            <h3>🧪 Automation with Selenium</h3>
-            <img src="https://github.com/user-attachments/assets/2e2a3b8c-f4cb-4939-8dc6-71311179b7ca" alt="12_Automation With Selenium Web Driver and TestNg_page-0001" style="width: 300px; border-radius: 10px; border: 2px solid #4CAF50;">
-        </div>
-
-        <div style="margin: 10px;">
-            <h3>📡 API Testing Overview with JMeter</h3>
-            <img src="https://github.com/user-attachments/assets/8ac535e5-4f95-47d9-9043-e75ca0679269" alt="13_API Testing and Basic Overview of JMETER _page-0001" style="width: 300px; border-radius: 10px; border: 2px solid #4CAF50;">
-        </div>
-
-        <div style="margin: 10px;">
-            <h3>🔍 API Testing with Postman</h3>
-            <img src="https://github.com/user-attachments/assets/7fd9aadb-b134-43ae-9260-7f443eeec6ec" alt="14_API Testing with Postman_page-0001" style="width: 300px; border-radius: 10px; border: 2px solid #4CAF50;">
-        </div>
-
-        <div style="margin: 10px;">
-            <h3>⚙️ Automation Using Cypress - Part II</h3>
-            <img src="https://github.com/user-attachments/assets/8cc9bf5b-12ba-4594-aa39-2ae490d742b5" alt="15_Automation Using Cypress – Part II_page-0001" style="width: 300px; border-radius: 10px; border: 2px solid #4CAF50;">
-        </div>
-
-        <div style="margin: 10px;">
-            <h3>🔧 Test Automation with Cypress</h3>
-            <img src="https://github.com/user-attachments/assets/1c628bdf-e267-4ebe-8499-b967fd9cdb46" alt="16_Test Automation with Cypress_page-0001" style="width: 300px; border-radius: 10px; border: 2px solid #4CAF50;">
-        </div>
-
-        <div style="margin: 10px;">
-            <h3>🎨 Web and Graphic Design Course</h3>
-            <img src="https://github.com/user-attachments/assets/df03faed-e3ef-47d3-af9e-cd69e50d8610" alt="17_Web and Graphic Design Course_page-0001" style="width: 300px; border-radius: 10px; border: 2px solid #4CAF50;">
-        </div>
-    </div>
+    <img src="https://github.com/user-attachments/assets/a9b7c42e-2783-437a-934d-3d913b034d73" alt="1_Python_Demonstration" style="width: 300px; border-radius: 10px; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/89d62895-13bc-4e51-ac46-2b93f8caf1fc" alt="2_AWS" style="width: 300px; border-radius: 10px; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/972dc590-c1a0-4b32-9462-c76beccd79c8" alt="3_Neo cert" style="width: 300px; border-radius: 10px; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/737067bd-792c-4604-88bf-bf7a41a6ab63" alt="4_Course-Certificate_Lab-Terraform-for-Beginners_Khizra pdf_page-0001" style="width: 300px; border-radius: 10px; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/2ab1cd96-86ad-4dda-aeeb-79c26e5d5df2" alt="5_5g introduction_page-0001" style="width: 300px; border-radius: 10px; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/035a5c22-658f-444c-bfd6-4dc6b82f4c56" alt="6_CertificateOfCompletion_page-0001" style="width: 300px; border-radius: 10px; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/1c07e1a1-c78e-4b16-baf0-4e815d063f0c" alt="7_Kubernetes Crash Course" style="width: 300px; border-radius: 10px; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/7b91c5e4-a02e-4467-94f1-52b4dcb64522" alt="8_Docker Hands-On Practical Experience" style="width: 300px; border-radius: 10px; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/d453ae12-d373-482b-a31a-c511bbcce667" alt="9_SQL Advanced Skill Assessment Test_page-0001" style="width: 300px; border-radius: 10px; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/1220f06a-fce8-403b-9d5b-65c4072a079a" alt="10_SQL Intermediate Skill Assessment Test_page-0001" style="width: 300px; border-radius: 10px; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/894b6ce0-cf41-4fd2-81d0-e6f62ca0a8b8" alt="11_SQL Basic Skill Assessment Test_page-0001" style="width: 300px; border-radius: 10px; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/2e2a3b8c-f4cb-4939-8dc6-71311179b7ca" alt="12_Automation With Selenium Web Driver and TestNg_page-0001" style="width: 300px; border-radius: 10px; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/8ac535e5-4f95-47d9-9043-e75ca0679269" alt="13_API Testing and Basic Overview of JMETER _page-0001" style="width: 300px; border-radius: 10px; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/7fd9aadb-b134-43ae-9260-7f443eeec6ec" alt="14_API Testing with Postman_page-0001" style="width: 300px; border-radius: 10px; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/8cc9bf5b-12ba-4594-aa39-2ae490d742b5" alt="15_Automation Using Cypress – Part II_page-0001" style="width: 300px; border-radius: 10px; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/1c628bdf-e267-4ebe-8499-b967fd9cdb46" alt="16_Test Automation with Cypress_page-0001" style="width: 300px; border-radius: 10px; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/df03faed-e3ef-47d3-af9e-cd69e50d8610" alt="17_Web and Graphic Design Course_page-0001" style="width: 300px; border-radius: 10px; margin: 10px;">
 </div>

@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Certificate Viewer</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+
+        h1 {
+            color: #343a40;
+            margin-top: 20px;
+        }
+
+        .carousel-item {
+            text-align: center;
+            padding: 20px;
+        }
+
+        .carousel-item img {
+            max-height: 500px;
+            margin: auto;
+            border: 1px solid #dee2e6;
+            border-radius: 5px;
+        }
+
+        .filter-section {
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .card {
+            background-color: #ffffff;
+            border: none;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        .card-header {
+            background-color: #007bff;
+            color: white;
+            font-weight: bold;
+            text-align: center;
+        }
+
+        .carousel-control-prev,
+        .carousel-control-next {
+            filter: invert(100%);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center mb-4">Certificates</h1>
+
+        <!-- Filter Section -->
+        <div class="filter-section">
+            <form method="get" action="/" class="form-inline justify-content-center">
+                <label class="form-check-label mr-3">View Format: </label>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" name="format" id="all" value="all" {% if selected_format == 'all' %} checked {% endif %}>
+                    <label class="form-check-label" for="all">All</label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" name="format" id="pdf" value="pdf" {% if selected_format == 'pdf' %} checked {% endif %}>
+                    <label class="form-check-label" for="pdf">PDF</label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" name="format" id="jpg" value="jpg" {% if selected_format == 'jpg' %} checked {% endif %}>
+                    <label class="form-check-label" for="jpg">Images (JPG/PNG)</label>
+                </div>
+                <button type="submit" class="btn btn-primary ml-3">Apply Filter</button>
+            </form>
+        </div>
+
+        <!-- Bootstrap Carousel -->
+        <div id="certificateCarousel" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+                {% for file in files %}
+                    <div class="carousel-item {% if loop.first %} active {% endif %}">
+                        <div class="card">
+                            <div class="card-header">
+                                Certificate {{ loop.index }}
+                            </div>
+                            <div class="card-body">
+                                {% if file.endswith('.jpg') or file.endswith('.jpeg') or file.endswith('.png') %}
+                                    <img class="d-block w-100" src="{{ url_for('serve_certificate', filename=file) }}" alt="Certificate Image">
+                                {% elif file.endswith('.pdf') %}
+                                    <embed src="{{ url_for('serve_certificate', filename=file) }}" type="application/pdf" class="d-block w-100" style="height: 500px;">
+                                {% endif %}
+                            </div>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+
+            <!-- Carousel Controls -->
+            <a class="carousel-control-prev" href="#certificateCarousel" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#certificateCarousel" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS, Popper.js, and jQuery -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+
+</html>

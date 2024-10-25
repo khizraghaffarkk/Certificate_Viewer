@@ -281,7 +281,7 @@ Here are all my certificates that reflect my skills and accomplishments:
 
 
 ## Overview:
-
+---
 <div align="center">
     <img src="https://github.com/user-attachments/assets/a9b7c42e-2783-437a-934d-3d913b034d73" alt="1_Python_Demonstration" style="width: 300px; border-radius: 10px; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/89d62895-13bc-4e51-ac46-2b93f8caf1fc" alt="2_AWS" style="width: 300px; border-radius: 10px; margin: 10px;">

@@ -24,9 +24,6 @@ To run this application, make sure you have the following installed:
 ## 🗂️ Directory Structure
 ```bash
 .
-├── app.py
-├── templates
-│   └── index.html
 ├── app
 │   └── certificates  # Add your certificate files here
 │   └── app.py
@@ -212,42 +209,32 @@ Here are all my certificates that reflect my skills and accomplishments:
 
 ---
 
-### 📡 5. Introduction to 5G
-![5_5g introduction_page-0001](https://github.com/user-attachments/assets/2ab1cd96-86ad-4dda-aeeb-79c26e5d5df2)
-
----
-
-### ✅ 6. Security Training
-![6_CertificateOfCompletion_page-0001](https://github.com/user-attachments/assets/035a5c22-658f-444c-bfd6-4dc6b82f4c56)
-
----
-
-### 🐳 7. Kubernetes Crash Course
+### 🐳 5. Kubernetes Crash Course
 ![7_Kubernetes Crash Course](https://github.com/user-attachments/assets/1c07e1a1-c78e-4b16-baf0-4e815d063f0c)
 
 ---
 
-### 🚢 8. Docker Hands-On Experience
+### 🚢 6. Docker Hands-On Experience
 ![8_Docker Hands-On Practical Experience](https://github.com/user-attachments/assets/7b91c5e4-a02e-4467-94f1-52b4dcb64522)
 
 ---
 
-### 📊 9. Advanced SQL Skill Assessment
+### 📊 7. Advanced SQL Skill Assessment
 ![9_SQL Advanced Skill Assessment Test_page-0001](https://github.com/user-attachments/assets/d453ae12-d373-482b-a31a-c511bbcce667)
 
 ---
 
-### 📈 10. Intermediate SQL Skill Assessment
+### 📈 8. Intermediate SQL Skill Assessment
 ![10_SQL Intermediate Skill Assessment_test_page-0001](https://github.com/user-attachments/assets/1220f06a-fce8-403b-9d5b-65c4072a079a)
 
 ---
 
-### 📚 11. Basic SQL Skill Assessment
+### 📚 9. Basic SQL Skill Assessment
 ![11_SQL Basic Skill Assessment Test_page-0001](https://github.com/user-attachments/assets/894b6ce0-cf41-4fd2-81d0-e6f62ca0a8b8)
 
 ---
 
-### 🧪 12. Automation with Selenium
+### 🧪 10. Automation with Selenium
 ![12_Automation With Selenium Web Driver and TestNg_page-0001](https://github.com/user-attachments/assets/2e2a3b8c-f4cb-4939-8dc6-71311179b7ca)
 
 ---
@@ -257,22 +244,22 @@ Here are all my certificates that reflect my skills and accomplishments:
 
 ---
 
-### 🔍 14. API Testing with Postman
+### 🔍 11. API Testing with Postman
 ![14_API Testing with Postman_page-0001](https://github.com/user-attachments/assets/7fd9aadb-b134-43ae-9260-7f443eeec6ec)
 
 ---
 
-### ⚙️ 15. Automation Using Cypress - Part II
+### ⚙️ 12. Automation Using Cypress - Part II
 ![15_Automation Using Cypress – Part II_page-0001](https://github.com/user-attachments/assets/8cc9bf5b-12ba-4594-aa39-2ae490d742b5)
 
 ---
 
-### 🔧 16. Test Automation with Cypress
+### 🔧 13. Test Automation with Cypress
 ![16_Test Automation with Cypress_page-0001](https://github.com/user-attachments/assets/1c628bdf-e267-4ebe-8499-b967fd9cdb46)
 
 ---
 
-### 🎨 17. Web and Graphic Design Course
+### 🎨 14. Web and Graphic Design Course
 ![17_Web and Graphic Design Course_page-0001](https://github.com/user-attachments/assets/df03faed-e3ef-47d3-af9e-cd69e50d8610)
 
 ---
@@ -287,8 +274,6 @@ Here are all my certificates that reflect my skills and accomplishments:
     <img src="https://github.com/user-attachments/assets/89d62895-13bc-4e51-ac46-2b93f8caf1fc" alt="2_AWS" style="width: 300px; border-radius: 10px; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/972dc590-c1a0-4b32-9462-c76beccd79c8" alt="3_Neo cert" style="width: 300px; border-radius: 10px; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/737067bd-792c-4604-88bf-bf7a41a6ab63" alt="4_Course-Certificate_Lab-Terraform-for-Beginners_Khizra pdf_page-0001" style="width: 300px; border-radius: 10px; margin: 10px;">
-    <img src="https://github.com/user-attachments/assets/2ab1cd96-86ad-4dda-aeeb-79c26e5d5df2" alt="5_5g introduction_page-0001" style="width: 300px; border-radius: 10px; margin: 10px;">
-    <img src="https://github.com/user-attachments/assets/035a5c22-658f-444c-bfd6-4dc6b82f4c56" alt="6_CertificateOfCompletion_page-0001" style="width: 300px; border-radius: 10px; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/1c07e1a1-c78e-4b16-baf0-4e815d063f0c" alt="7_Kubernetes Crash Course" style="width: 300px; border-radius: 10px; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/7b91c5e4-a02e-4467-94f1-52b4dcb64522" alt="8_Docker Hands-On Practical Experience" style="width: 300px; border-radius: 10px; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/d453ae12-d373-482b-a31a-c511bbcce667" alt="9_SQL Advanced Skill Assessment Test_page-0001" style="width: 300px; border-radius: 10px; margin: 10px;">
